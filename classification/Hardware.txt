@@ -1,0 +1,7 @@
+Hardware bios
+Hardware motherboard
+Hardware board fsb
+Hardware board overclocking
+Hardware fsb overclocking
+Hardware bios controller ide
+Hardware cables drive floppy
